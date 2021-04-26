@@ -1191,20 +1191,6 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":1,
-         "firstgid":1897,
-         "image":"exit_tile.png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"exit",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
